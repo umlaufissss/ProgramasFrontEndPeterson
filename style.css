@@ -1,0 +1,64 @@
+body
+{
+  font-family: "Montserrat", sans-serif;
+  background-color: rgb(75, 26, 26);
+  color: white;
+  font-size: 24px;
+  line-height: 1.7;
+  text-align: center;
+}
+
+h1
+{
+    color: black;
+
+}
+
+.conteinter
+{
+    max-width: 1200px;
+    margin: 40px auto;
+    padding: 60px ;
+    border-radius: 50px;
+    background-color: azure;
+    color: black;
+    box-shadow: 0 4px 16px black;
+}
+
+.genero
+{
+    max-width: 1150px;
+    margin: 20px auto;
+    padding: 60px ;
+    border-radius: 50px;
+    background-color: rgb(75, 26, 26);
+    color: white;
+    box-shadow: 0 4px 16px black;
+    text-align: start;
+}
+
+.sinopse
+{
+    text-align: center;
+}
+
+.table
+{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+td
+{
+  font-family: "Newsreader", sans-serif;
+  color: rgb(0, 0, 0);
+  letter-spacing: 1px;
+}
+
+.poem
+{
+    text-align: start;
+    font-family: "Newsreader", sans-serif;
+}
