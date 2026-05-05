@@ -95,7 +95,6 @@ img
 nav
 {
     background-color: rgb(75, 26, 26);
-    color: white;
     padding: 10px;
     border-radius: 50px;
     font-size:24px;
@@ -107,6 +106,7 @@ nav
 
 nav a
 {
+    color: white;
     padding: 0 50px;
 }
 
